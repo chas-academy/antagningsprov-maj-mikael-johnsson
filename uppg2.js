@@ -9,4 +9,3 @@ function uppg2() {
 
 module.exports = { uppg2 };
 
-uppg2();

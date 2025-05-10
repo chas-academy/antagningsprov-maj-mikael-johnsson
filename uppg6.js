@@ -11,4 +11,3 @@ function uppg6(){
 }
 
 module.exports = { uppg6 };
-uppg6();

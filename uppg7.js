@@ -14,4 +14,3 @@ function uppg7() {
 }
 
 module.exports = { uppg7 };
-console.log(uppg7())

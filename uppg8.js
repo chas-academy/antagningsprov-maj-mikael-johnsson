@@ -31,4 +31,3 @@ function uppg8(){
 }
 
 module.exports = { uppg8 };
-uppg8();
