@@ -36,5 +36,5 @@ function uppg10(){
   };
   
   module.exports = { uppg10 };
-  
+
   uppg10();
